@@ -16,4 +16,4 @@ Developing front-end and full-stack projects using React.js, Next.js, TypeScript
 [![](https://visitcount.itsvg.in/api?id=ajinkya-mhatre&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-https://github-profile-trophy.vercel.app/?username=ajinkya-mhatre&theme=light
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajinkya-mhatre)](https://github.com/ryo-ma/github-profile-trophy)
